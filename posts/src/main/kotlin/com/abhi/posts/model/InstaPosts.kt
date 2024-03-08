@@ -1,7 +1,5 @@
 package com.abhi.posts.model
 
-import com.mysql.cj.jdbc.Blob
-import com.sun.jdi.IntegerValue
 import jakarta.persistence.Column
 import jakarta.persistence.Entity
 import jakarta.persistence.Id
